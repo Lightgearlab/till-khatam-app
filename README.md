@@ -13,7 +13,7 @@ This app is built using Flutter with Provider with following features:
 - Changeable themes using ThemeData
 - Structured Provider implementation with local SQLite
 - Admob Interstitial implementation
-- In App Purchase implmentation(WIP)
+- In App Purchase implementation(WIP)
 - l10n implementation(WIP)
 - Firebase integration(WIP)
 
