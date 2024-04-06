@@ -1,4 +1,4 @@
-#Till Khatam - Quran Tracker made in Flutter
+## Till Khatam - Quran Tracker made in Flutter
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
