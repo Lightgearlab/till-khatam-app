@@ -1,0 +1,274 @@
+{
+  "when_khatam": "When do you intend to Khatam?",
+  "@when_khatam": {
+    "description": "When do you intend to Khatam?"
+  },
+  "what_page": "What page you are currently at?",
+  "@what_page": {
+    "description": "What page you are currently at?"
+  },
+  "how_many": "How many pages does your Quran have?",
+  "@how_many": {
+    "description": "How many pages does your Quran have?"
+  },
+  "cancel": "cancel",
+  "@cancel": {
+    "description": "cancel"
+  },
+  "confirm": "confirm",
+  "@confirm": {
+    "description": "confirm"
+  },
+  "invite": "Invite Friends",
+  "@invite": {
+    "description": "Invite Friends"
+  },
+  "removedas": "Remove Ads",
+  "@removedas": {
+    "description": "Remove Ads"
+  },
+  "theme": "Theme :",
+  "@theme": {
+    "description": "Theme :"
+  },
+  "option": "Option!",
+  "@option": {
+    "description": "Option!"
+  },
+  "help": "help",
+  "@help": {
+    "description": "help"
+  },
+  "set_date": "set khatam date",
+  "@set_date": {
+    "description": "set khatam date"
+  },
+  "graph": "graph",
+  "@graph": {
+    "description": "graph"
+  },
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit"
+  },
+  "warning_option": "Please set your khatam deadline in Option",
+  "@warning_option": {
+    "description": "Please set your khatam deadline in Option"
+  },
+  "info1": "Slow and steady is the best way to finish!",
+  "@info1": {
+    "description": "Slow and steady is the best way to finish!"
+  },
+  "info2": "Take care of your tajweed! Better be slow than WRONG!",
+  "@info2": {
+    "description": "Take care of your tajweed! Better be slow than WRONG!"
+  },
+  "info3": "Istiqamah is the best practice!",
+  "@info3": {
+    "description": "Istiqamah is the best practice!"
+  },
+  "info4": "Read together to improve your reading!",
+  "@info4": {
+    "description": "Read together to improve your reading!"
+  },
+  "help1": "Press Edit button to update your pages!",
+  "@help1": {
+    "description": "Press Edit button to update your pages!"
+  },
+  "help2": "You can change your theme setting in Option!",
+  "@help2": {
+    "description": "You can change your theme setting in Option!"
+  },
+  "help3": "Notify checkbox is used to quickly activate notification!",
+  "@help3": {
+    "description": "Notify checkbox is used to quickly activate notification!"
+  },
+  "help4": "Reset your deadline goal at Option button!",
+  "@help4": {
+    "description": "Reset your deadline goal at Option button!"
+  },
+  "help5": "Please review us so that we can improve our app :D!",
+  "@help5": {
+    "description": "Please review us so that we can improve our app :D!"
+  },
+  "notification_time": "Please Set Your Notification Time",
+  "@notification_time": {
+    "description": "Please Set Your Notification Time"
+  },
+  "days_deadline": " days left till deadline!",
+  "@days_deadline": {
+    "description": " days left till deadline!"
+  },
+  "today_is": "Today is",
+  "@today_is": {
+    "description": "Today is"
+  },
+  "ack": "Ack! Hiya! Press Help for additional info",
+  "@ack": {
+    "description": "Ack! Hiya! Press Help for additional info"
+  },
+  "days_until": " days left until",
+  "@days_until": {
+    "description": " days left until"
+  },
+  "deadline_met": "Deadline met ->",
+  "@deadline_met": {
+    "description": "Deadline met ->"
+  },
+  "nearly_finished": "You're nearly finished! Keep it up!",
+  "@nearly_finished": {
+    "description": "You're nearly finished! Keep it up!"
+  },
+  "alhamdulillah_khatam": "Alhamdulillah! You managed to continue Till Khatam!",
+  "@alhamdulillah_khatam": {
+    "description": "Alhamdulillah! You managed to continue Till Khatam!"
+  },
+  "alquran_companion": "AlQuran is your best Companion!",
+  "@alquran_companion": {
+    "description": "AlQuran is your best Companion!"
+  },
+  "page": "Page",
+  "@page": {
+    "description": "Page"
+  },
+  "over": "over",
+  "@over": {
+    "description": "over"
+  },
+  "nice": "Nice! Keep it up!",
+  "@nice": {
+    "description": "Nice! Keep it up!"
+  },
+  "you_have": "You have to read",
+  "@you_have": {
+    "description": "You have to read"
+  },
+  "page_per": "page/s per day",
+  "@page_per": {
+    "description": "page/s per day"
+  },
+  "till_khatam": "till khatam",
+  "@till_khatam": {
+    "description": "till khatam"
+  },
+  "page_salah": "page/s per Salah",
+  "@page_salah": {
+    "description": "page/s per Salah"
+  },
+  "page_left": "page left",
+  "@page_left": {
+    "description": "page left"
+  },
+  "juzu": "\" Juz'\"",
+  "@juzu": {
+    "description": "\" Juz'\""
+  },
+  "notify_me": "Notify Me!",
+  "@notify_me": {
+    "description": "Notify Me!"
+  },
+  "notify_me_everyday_at": "Notify me everyday at",
+  "@notify_me_everyday_at": {
+    "description": "Notify me everyday at"
+  },
+  "set_time": "set time",
+  "@set_time": {
+    "description": "set time"
+  },
+  "notification_set": "notification set at",
+  "@notification_set": {
+    "description": "notification set at"
+  },
+  "notification_disable": "notification disabled",
+  "@notification_disable": {
+    "description": "notification disabled"
+  },
+  "choose_date": "Please choose a Date!",
+  "@choose_date": {
+    "description": "Please choose a Date!"
+  },
+  "thanks_download": "Thanks for downloading Till Khatam!",
+  "@thanks_download": {
+    "description": "Thanks for downloading Till Khatam!"
+  },
+  "review": "Don't forget to give us a review! :D",
+  "@review": {
+    "description": "Don't forget to give us a review! :D"
+  },
+  "thank_support": "Thank you for supporting us!",
+  "@thank_support": {
+    "description": "Thank you for supporting us!"
+  },
+  "failed_buy": "Failed to purchase. Please try again",
+  "@failed_buy": {
+    "description": "Failed to purchase. Please try again"
+  },
+  "awesome": "Awesome!",
+  "@awesome": {
+    "description": "Awesome!"
+  },
+  "change_page_date": "Change page and date :",
+  "@change_page_date": {
+    "description": "Change page and date :"
+  },
+  "im_at": "I'm currently at page",
+  "@im_at": {
+    "description": "I'm currently at page"
+  },
+  "ive_read": "I've read . .",
+  "@ive_read": {
+    "description": "I've read . ."
+  },
+  "page_today": "pages today",
+  "@page_today": {
+    "description": "pages today"
+  },
+  "im_currently": "I'm currently at",
+  "@im_currently": {
+    "description": "I'm currently at"
+  },
+  "ayah_num": "at ayah num",
+  "@ayah_num": {
+    "description": "at ayah num"
+  },
+  "safar": "Safar",
+  "@safar": {
+    "description": "Safar"
+  },
+  "rabiulawal": "Rabi'ul Awwal",
+  "@rabiulawal": {
+    "description": "Rabi'ul Awwal"
+  },
+  "rabiulakhir": "Rabi'ul Akhir",
+  "@rabiulakhir": {
+    "description": "Rabi'ul Akhir"
+  },
+  "jamadilawal": "Jamadil Awwal",
+  "@jamadilawal": {
+    "description": "Jamadil Awwal"
+  },
+  "jamadilakhir": "Jamadil Akhir",
+  "@jamadilakhir": {
+    "description": "Jamadil Akhir"
+  },
+  "rejab": "Rejab",
+  "@rejab": {
+    "description": "Rejab"
+  },
+  "shaban": "Sha'ban",
+  "@shaban": {
+    "description": "Sha'ban"
+  },
+  "syawal": "Syawal",
+  "@syawal": {
+    "description": "Syawal"
+  },
+  "dhulqaidah": "Dhul Qa'ada",
+  "@dhulqaidah": {
+    "description": "Dhul Qa'ada"
+  },
+  "dhulhijjah": "Dhul Hijja",
+  "@dhulhijjah": {
+    "description": "Dhul Hijja"
+  }
+}

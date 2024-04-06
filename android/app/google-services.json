@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "498296336983",
+    "firebase_url": "https://till-khatam-36371.firebaseio.com",
+    "project_id": "till-khatam-36371",
+    "storage_bucket": "till-khatam-36371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498296336983:android:d39c9d0b7d58e6f9",
+        "android_client_info": {
+          "package_name": "com.lightgear.iquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498296336983-53kn6r7k9b6b8flicm0av8a2pvgg8gpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lightgear.iquran",
+            "certificate_hash": "d2cc0855d4a8ae66e043c79596ab38bcf4a5edf7"
+          }
+        },
+        {
+          "client_id": "498296336983-9d76lqgrk4nraij21hcq59r8o492qtu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lightgear.iquran",
+            "certificate_hash": "5fc755b5c19f403f97d0f9c6e4cf20f4b0da9324"
+          }
+        },
+        {
+          "client_id": "498296336983-bdb0ia21eof137s4hsduutal8j8qfq18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_LCId-tlvEOhyuBJVp6QrbAMIEGYB6FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498296336983-bdb0ia21eof137s4hsduutal8j8qfq18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2620340554590656~9272054723"
+    }
+  ],
+  "configuration_version": "1"
+}
