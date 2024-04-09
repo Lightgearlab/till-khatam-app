@@ -21,8 +21,13 @@ class QuranProvider with ChangeNotifier {
   createUser(User user) async {
     var user1 = await userRepo.getUser();
     if (user1 != null) userRepo.delete(user1.user_id);
+    var readData = state!.listRead;
+    if (readData != null) readRepo.delete(1);
     await userRepo.create(user);
-    _state = _state?.copyWith(user: await userRepo.getUser());
+    _state = _state?.copyWith(
+        user: await userRepo.getUser(),
+        listRead: await readRepo.viewAll(),
+        listReadToday: await readRepo.viewAllToday());
     notifyListeners();
   }
 

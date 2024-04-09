@@ -24,9 +24,8 @@ class PageCounterDialog extends StatefulWidget {
 
 class _PageCounterDialogState extends State<PageCounterDialog> {
   InterstitialAd? _interstitiaAd;
-  final adUnitId = Platform.isAndroid
-      ? dotenv.env['ANDROID_ADS']
-      : dotenv.env['IOS_ADS'];
+  final adUnitId =
+      Platform.isAndroid ? dotenv.env['ANDROID_ADS'] : dotenv.env['IOS_ADS'];
   void loadAd() async {
     await InterstitialAd.load(
         adUnitId: adUnitId!,

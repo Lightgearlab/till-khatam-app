@@ -20,7 +20,7 @@ class UserRepo extends BaseRepository<User> {
     final db = await DatabaseHelper.getDB();
     await db.delete(
       DatabaseHelper.TABLE_USER,
-      where: 'id = ?',
+      where: 'user_id = ?',
       whereArgs: [id],
     );
   }
