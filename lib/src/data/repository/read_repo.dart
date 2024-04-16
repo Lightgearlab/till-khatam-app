@@ -15,9 +15,11 @@ class ReadRepo extends BaseRepository<Read> {
   }
 
   @override
-  Future<void> delete(id) {
-    // TODO: implement delete
-    throw UnimplementedError();
+  Future<void> delete(id) async {
+    final db = await DatabaseHelper.getDB();
+    await db.delete(
+      DatabaseHelper.TABLE_USER_READ,
+    );
   }
 
   @override
